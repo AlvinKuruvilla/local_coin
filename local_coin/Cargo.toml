@@ -14,8 +14,5 @@ rayon = "1.8.1"
 log = "0.4.20"
 flexi_logger = "0.27.4"
 sysinfo = "0.30.5"
-subxt = "0.34.0"
-subxt-signer = { version = "0.34.0", features = ["sr25519"] }
-tokio = { version = "1.36.0", features = ["macros", "rt-multi-thread"] }
 lazy_static = "1.4.0"
 config = "0.14.0"
