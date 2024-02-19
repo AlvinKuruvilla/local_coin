@@ -1,10 +1,6 @@
 [workspace]
 resolver = "2"
-members = [
-	"local_coin",
-    "flipper",
-    "opt",
-]
+members = ["local_coin", "opt"]
 
 [profile.release]
-debug=true
+debug = true
